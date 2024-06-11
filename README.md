@@ -1,7 +1,7 @@
 # Flutter-Task-Manager
 
 
-
+The Flutter task manager app allows users to create, update, delete tasks, and view task history. It features a clean UI with light/dark modes and push notifications. The app supports  offline access, ensuring tasks are accessible anytime.
 
 ## Screenshots
 ![flutter-task-manager](https://user-images.githubusercontent.com/62181222/111222593-3f02b580-8606-11eb-89e1-c5c518f5ad96.jpg)
@@ -46,14 +46,4 @@ Step-3: Run flutter project -
 - Flutter
 - Dart
 
-## New to Flutter project!
 
-Follow this -
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter-Task-Manager
