@@ -2,7 +2,6 @@
 
 
 
-This is a daily task manager application project created in flutter. Install this application from [Google Play Store](https://play.google.com/store/apps/details?id=bornomala.todo) or Get it from [GitHub Release](https://github.com/aratheunseen/flutter-task-manager/releases/download/android/todo-android.apk).
 
 ## Screenshots
 ![flutter-task-manager](https://user-images.githubusercontent.com/62181222/111222593-3f02b580-8606-11eb-89e1-c5c518f5ad96.jpg)
